@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6e804b0-abd8-44d4-be54-8a3707a64aa4" name="Default Changelist" comment="" />
+    <list default="true" id="1ae2cd6c-c9c4-4502-b6d9-b320fef81095" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1WRtjHvV8sbOXlI4sNl3KJrwNw6" />
+  <component name="ProjectId" id="1WQxynXXDZ04WBD19wf5230wMeS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../exes-and-ohs-tdd" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,11 +33,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6e804b0-abd8-44d4-be54-8a3707a64aa4" name="Default Changelist" comment="" />
-      <created>1579124368516</created>
+      <changelist id="1ae2cd6c-c9c4-4502-b6d9-b320fef81095" name="Default Changelist" comment="" />
+      <created>1579095876208</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579124368516</updated>
+      <updated>1579095876208</updated>
     </task>
     <servers />
   </component>
